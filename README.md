@@ -1,7 +1,7 @@
 ### Hi there, I'm Nadeem Abdelkader 👋
 
-- 🎓 A final year CS student at Monash University
-- 🔗 Connect with me on [LinkedIn](https://www.linkedin.com/in/nadeem-abdelkader-746223204)!
+- 🎓  A final year CS student at Monash University
+- 🔗  Connect with me on [LinkedIn](https://www.linkedin.com/in/nadeem-abdelkader-746223204)!
 
 <!---
 Nadeem-Abdelkader/Nadeem-Abdelkader is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
