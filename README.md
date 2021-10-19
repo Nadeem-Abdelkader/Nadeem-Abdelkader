@@ -1,6 +1,6 @@
 ### Hi there, I'm Nadeem Abdelkader 👋
 
-- 🎓  A final year CS student at Monash University
+- 🎓  Final year CS student at Monash University
 - 🔗  Connect with me on [LinkedIn](https://www.linkedin.com/in/nadeem-abdelkader)!
 
 <!---
