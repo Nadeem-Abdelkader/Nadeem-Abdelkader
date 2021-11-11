@@ -2,6 +2,7 @@
 
 - 🎓  Final year CS student at Monash University
 - 🔗  Connect with me on [LinkedIn](https://www.linkedin.com/in/nadeem-abdelkader)!
+- 👨‍💻 Software Engineering Intern at Valeo Egypt
 
 <!---
 Nadeem-Abdelkader/Nadeem-Abdelkader is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
