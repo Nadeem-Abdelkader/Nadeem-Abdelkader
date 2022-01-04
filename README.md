@@ -1,8 +1,8 @@
 ### Hi there, I'm Nadeem Abdelkader 👋
 
 - 🎓  Final year CS student at Monash University
-- 🔗  Connect with me on [LinkedIn](https://www.linkedin.com/in/nadeem-abdelkader)!
 - 👨‍💻 Software Engineering Intern at Valeo
+- 🔗  Connect with me on [LinkedIn](https://www.linkedin.com/in/nadeem-abdelkader)!
 
 <!---
 Nadeem-Abdelkader/Nadeem-Abdelkader is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
