@@ -19,17 +19,16 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 --->
 
+![Nadeem's github stats](https://github-readme-stats.vercel.app/api?username=Nadeem-Abdelkader&theme=vue&show_icons=true)
+
 <!---
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Nadeem-Abdelkader&show_icons=true&theme=gotham" alt="Nadeem-Abdelkader"/>
---->
 
-![Nadeem's github stats](https://github-readme-stats.vercel.app/api?username=Nadeem-Abdelkader&theme=vue&show_icons=true)
-<!---
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Nadeem-Abdelkader&show_icons=true&layout=compact&theme=vue&hide_border=true&hide=html,css)
---->
-<!---
+
 ![Activity Graph](https://activity-graph.herokuapp.com/graph?username=Nadeem-Abdelkader&theme=github)
+
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Nadeem-Abdelkader&column=7&theme=onedark" />
+<img src="https://github-profile-trophy.vercel.app/?username=Nadeem-Abdelkader&column=7&theme=onedark" />
 </div>
 --->
