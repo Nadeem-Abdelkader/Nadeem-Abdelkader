@@ -18,3 +18,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 --->
+
+![Nadeem's github stats](https://github-readme-stats.vercel.app/api?username=Nadeem-Abdelkader&theme=vue&show_icons=true)
+<!--![](https://github-readme-stats.vercel.app/api/top-langs/?username=Ehco1996&show_icons=true&layout=compact&theme=vue&hide_border=true&hide=html,css)-->
