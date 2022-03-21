@@ -1,7 +1,7 @@
 ### Hi there, I'm Nadeem Abdelkader 👋
 
 - 🎓  Final year CS student at Monash University
-- 👨‍💻 Software Engineering Intern at Valeo
+- 👨‍💻 Software Engineering Intern at Khwarizm Consulting
 - 🔗  Connect with me on [LinkedIn](https://www.linkedin.com/in/nadeem-abdelkader)!
 
 <!---
