@@ -1,6 +1,6 @@
 ### Hi there, I'm Nadeem Abdelkader 👋
 
-- 🎓  Final year CS student at Monash University
+- 🎓  Final year Computer Science student at Monash University Malaysia
 - 👨‍💻 Software Engineering Intern at Khwarizm Consulting
 - 🔗  Connect with me on [LinkedIn](https://www.linkedin.com/in/nadeem-abdelkader)!
 
@@ -19,8 +19,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 --->
 
-![Nadeem's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nadeem-Abdelkader&theme=vue&show_icons=true)
-
+<!-- ![Nadeem's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nadeem-Abdelkader&theme=vue&show_icons=true)
+ -->
 <!---
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Nadeem-Abdelkader&show_icons=true&theme=gotham" alt="Nadeem-Abdelkader"/>
 
