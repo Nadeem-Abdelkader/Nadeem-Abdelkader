@@ -1,5 +1,4 @@
 ### Hi there, I'm Nadeem Abdelkader 👋
-
 - 🎓  Final year Computer Science student at Monash University Malaysia
 - 👨‍💻 Software Engineering Intern at Khwarizm Consulting
 - 🔗  Connect with me on [LinkedIn](https://www.linkedin.com/in/nadeem-abdelkader)!
