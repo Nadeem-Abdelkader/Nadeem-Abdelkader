@@ -1,6 +1,5 @@
 ### Hi there, I'm Nadeem Abdelkader 👋
-- 🎓  Final year Computer Science student at Monash University Malaysia
-- 👨‍💻 Software Engineering Intern at Khwarizm Consulting
+- 👨‍💻 Client Solutions Developer at Odoo
 - 🔗  Connect with me on [LinkedIn](https://www.linkedin.com/in/nadeem-abdelkader)!
 
 <!---
