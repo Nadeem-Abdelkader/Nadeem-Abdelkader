@@ -1,5 +1,5 @@
 ### Hi there, I'm Nadeem Abdelkader 👋
-- 👨‍💻 Client Solutions Developer at Odoo
+- 👨‍💻 Software Developer at Odoo
 - 🔗  Connect with me on [LinkedIn](https://www.linkedin.com/in/nadeem-abdelkader)!
 
 <!---
